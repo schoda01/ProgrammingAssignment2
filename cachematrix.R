@@ -1,15 +1,2 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
-
-makeCacheMatrix <- function(x = matrix()) {
-
-}
-
-
-## Write a short comment describing this function
-
-cacheSolve <- function(x, ...) {
-        ## Return a matrix that is the inverse of 'x'
-}
+I cut and pasted the wrong URL. The correct file that I uploaded is under the "schoda01" branch...
+Here is the correct link is https://github.com/schoda01/ProgrammingAssignment2/tree/schoda01
